@@ -185,6 +185,14 @@ body {
 
 }
 
+
+@media(max-width:480px){
+  .top-banner{
+      display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+
 /* Mobile responsive */
 @media (max-width: 768px) {
 
