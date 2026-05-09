@@ -188,12 +188,12 @@ body {
 
 @media(max-width:480px){
   .top-banner{
-    font-size: 10px;
-      display: flex;
+    font-size: 5px;
+    display: flex;
     justify-content: center;
     align-items: center;
-  }
-
+    }
+}
 /* Mobile responsive */
 @media (max-width: 768px) {
 
